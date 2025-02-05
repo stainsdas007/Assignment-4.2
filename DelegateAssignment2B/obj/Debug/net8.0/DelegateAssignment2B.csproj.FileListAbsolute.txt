@@ -1,0 +1,15 @@
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\bin\Debug\net8.0\DelegateAssignment2B.exe
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\bin\Debug\net8.0\DelegateAssignment2B.deps.json
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\bin\Debug\net8.0\DelegateAssignment2B.runtimeconfig.json
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\bin\Debug\net8.0\DelegateAssignment2B.dll
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\bin\Debug\net8.0\DelegateAssignment2B.pdb
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.AssemblyInfoInputs.cache
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.AssemblyInfo.cs
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.csproj.CoreCompileInputs.cache
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.sourcelink.json
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.dll
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\refint\DelegateAssignment2B.dll
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.pdb
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\DelegateAssignment2B.genruntimeconfig.cache
+C:\DemoNov2024\ConsoleAppDemoNov2024-Solution\DelegateAssignment2B\obj\Debug\net8.0\ref\DelegateAssignment2B.dll
